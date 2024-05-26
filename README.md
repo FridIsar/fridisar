@@ -1,13 +1,14 @@
 <h1 align="center">Hi there 👋 I'm Isar</h1>
+<h2 align="center">Technical consultant — Software Engineer — Solutions Architect</h2>
 <h3 align="center">I enjoy fun meaningful projects, tech education and automating stuff</h3>
 
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=fridisar&label=Profile%20views&color=0e75b6&style=flat" alt="fridisar" />
 </p>
 
-- ✨ Currently working at [MigraCode](https://migracode.org)
+- ✨ Currently working at [MigraCode](https://migracode.org) and [Fornleifastofnun Íslands](https://www.facebook.com/fornleifastofnun/)
 
-- 🌱 Currently studying: **AWS Solutions Architect**
+- 🌱 Currently studying: **Test-driven development**
 
 - 🚀 Working with our community on [great projects](https://portfolio.migracode.org/)
 
