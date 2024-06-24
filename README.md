@@ -20,7 +20,7 @@
 
 - 📫 How to reach out to me: **contact@isar.pro**
 
-- 📄 Know about [my experiences](https://drive.google.com/file/d/1Q-YuF8-CmfuQWFXemYfXbi3T4DxHz6FR/view?usp=sharing)
+- 📄 Know about [my experiences](https://drive.google.com/file/d/1VltgAAar5BIhGSgLR7KbG1xK4o1EQwAX/view?usp=sharing)
 
 - ⚡ Fun fact: **I'm on a mission to automate myself 🤖**
 
