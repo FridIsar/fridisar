@@ -8,7 +8,7 @@
 
 - ✨ Currently working at [MigraCode](https://migracode.org) and [Fornleifastofnun Íslands](https://www.facebook.com/fornleifastofnun/)
 
-- 🌱 Currently studying: **Test-driven development**
+- 🌱 Currently studying: **Using GH Actions for CI/CD**
 
 - 🚀 Working with our community on [great projects](https://portfolio.migracode.org/)
 
