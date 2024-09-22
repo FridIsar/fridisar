@@ -23,6 +23,8 @@
 - 📄 Know about [my experiences](https://drive.google.com/file/d/1VltgAAar5BIhGSgLR7KbG1xK4o1EQwAX/view?usp=sharing)
 
 - ⚡ Fun fact: **I'm on a mission to automate myself 🤖**
+  
+- 🙈 _Never spend 6 minutes doing something by hand when you can spend 6 hours failing to automate it._ -Zhuowei Zhang
 
 <p align="right">
 <a href="https://linkedin.com/in/isar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isar" height="30" width="40" /></a>
