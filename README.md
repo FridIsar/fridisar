@@ -20,8 +20,6 @@
 
 - 📫 How to reach out to me: **contact@isar.pro**
 
-- 📄 Know about [my experiences](https://drive.google.com/file/d/1VltgAAar5BIhGSgLR7KbG1xK4o1EQwAX/view?usp=sharing)
-
 - ⚡ Fun fact: **I'm on a mission to automate myself 🤖**
   
 - 🙈 _Never spend 6 minutes doing something by hand when you can spend 6 hours failing to automate it._ -Zhuowei Zhang
