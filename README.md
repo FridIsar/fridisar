@@ -6,7 +6,7 @@
 <img src="https://komarev.com/ghpvc/?username=fridisar&label=Profile%20views&color=0e75b6&style=flat" alt="fridisar" />
 </p>
 
-- ✨ Currently working at [MigraCode](https://migracode.org) and [Fornleifastofnun Íslands](https://www.facebook.com/fornleifastofnun/)
+- ✨ Currently working at [Akkodis](https://akkodis.com) and [Fornleifastofnun Íslands](https://www.facebook.com/fornleifastofnun/)
 
 - 🌱 Currently studying: **Using GH Actions for CI/CD**
 
