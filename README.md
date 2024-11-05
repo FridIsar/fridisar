@@ -8,7 +8,7 @@
 
 - ✨ Currently working at [Akkodis](https://akkodis.com) and [Fornleifastofnun Íslands](https://www.facebook.com/fornleifastofnun/)
 
-- 🌱 Currently studying: **Using GH Actions for CI/CD**
+- 🌱 Currently studying: **LLM implementation using AWS (Kendra, Lex, Bedrock & Claude)**
 
 - 🚀 Working with our community on [great projects](https://portfolio.migracode.org/)
 
