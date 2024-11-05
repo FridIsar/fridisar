@@ -14,7 +14,7 @@
 
 - 🤝 Volunteering with the awesome [CodeYourFuture](https://codeyourfuture.io/)
 
-- 👷 [My portfolio](https://isar.pro) (in construction)
+- 💼 [My (slightly minimalistic) website](https://isar.pro)
 
 - 💬 Ask me about: **partnerships or tech education**
 
